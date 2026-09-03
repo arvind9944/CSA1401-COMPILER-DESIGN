@@ -1,3 +1,0 @@
-Compiler design is easy.
-Compiler design is interesting.
-I like compiler design.
